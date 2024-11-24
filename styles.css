@@ -15,7 +15,9 @@ a {
 
 /* Header Styles */
 header {
-    background-color: #222;
+    background: url(assets/background.png);
+    background-position: center;
+    background-size: cover;
     color: #fff;
     text-align: center;
     padding: 20px 0;
